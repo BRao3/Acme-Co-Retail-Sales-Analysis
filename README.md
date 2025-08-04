@@ -16,6 +16,10 @@ Key objectives of the analysis:
    - **Geographic analysis:** State and region-level sales & profit.
    - **Channel performance:** Compared revenue and profit margins across sales channels.
 
+<img width="897" height="507" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/728fe147-2154-48d6-9f6a-d5a2682a9aac" />
+
+<img width="893" height="501" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/009bad88-a769-4192-b721-5e3dd9bce339" />
+
 ## **Key Insights**
 - **Product Performance:** A few products (Product 25 & Product 26) generate a significant share of total revenue.
 - **Profitability:** High-profit margins (>40%) are seen in certain states and for bulk orders, while some low-margin products could be optimized.
